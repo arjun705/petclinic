@@ -1,4 +1,5 @@
 Welcome to Formac
 This session is all about remote repos
 this is the 3rd line
+<<<<< HEAD
 This is 44th line with Hello World line
